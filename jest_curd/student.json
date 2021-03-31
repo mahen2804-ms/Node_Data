@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "fname": "abcd",
+    "lname": "mno",
+    "email": "abc@gmail.com",
+    "pass": "124536"
+  },
+  {
+    "id": 2,
+    "fname": "abcdefgh",
+    "lname": "mnopqr",
+    "email": "abc@gmail.com",
+    "pass": "987654"
+  },
+  {
+    "id": 3,
+    "fname": "hij",
+    "lname": "mnstuvwo",
+    "email": "abc@gmail.com",
+    "pass": "741258"
+  },
+  {
+    "fname": "gg",
+    "lname": "ss",
+    "email": "abc@gmail.com",
+    "pass": "124536"
+  }
+]
